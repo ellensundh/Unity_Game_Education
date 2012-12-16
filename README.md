@@ -17,6 +17,8 @@ This is a light to cast light to your entire scene. With Unity Pro this light ca
 ###Floor
 The floor is an object made out of a cube and makes the floor of the scene. The floor has a component called Box Collider which means that if there are other object with this component they will collide. The material of this box collider is set to Bouncy so that other box colliders will bounce one they hit the floor.
 
+![Alt text](https://raw.github.com/ellensundh/Unity_Game_Education/master/boxcollider.png "Box Collider added to floor")
+
 ###FlowerCube
 A game object with the material of a flower pattern.
 

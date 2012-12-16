@@ -21,7 +21,9 @@ The floor is an object made out of a cube and makes the floor of the scene. The 
 A game object with the material of a flower pattern.
 
 ###Main Camera
-This is the main camera of the scene. The camera can be moved around and rotated in the Unity scene.
+This is the main camera of the scene. The camera can be moved around and rotated in the Unity scene. The camera has a script attahed to it called "Game". You can see it as a component if you select the Main Camera. To open the script, click on the JS icon Game right after it says Script.
+
+![Alt text](/inspector.png "Game script shown in Inspector")
 
 ###Point light
 A source of light that is place out in the Unity scene.
